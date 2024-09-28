@@ -5,10 +5,6 @@ VisualStudioVersion = 17.12.35323.107
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer\BusinessLayer.csproj", "{3F865A5C-B56E-4FA7-908C-B6E163B706BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer\DataAccessLayer.csproj", "{44255A70-98E4-49CB-A0D3-DC9786F4378E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityLayer", "EntityLayer\EntityLayer\EntityLayer.csproj", "{D448443F-6EA5-4C76-A158-03FEFFE1A52A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresenationLayer", "PresenationLayer\PresenationLayer\PresenationLayer.csproj", "{5CFA320D-3F3F-4C36-925E-629601B963D1}"
 EndProject
 Global
@@ -21,14 +17,6 @@ Global
 		{3F865A5C-B56E-4FA7-908C-B6E163B706BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F865A5C-B56E-4FA7-908C-B6E163B706BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F865A5C-B56E-4FA7-908C-B6E163B706BB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{44255A70-98E4-49CB-A0D3-DC9786F4378E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{44255A70-98E4-49CB-A0D3-DC9786F4378E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{44255A70-98E4-49CB-A0D3-DC9786F4378E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{44255A70-98E4-49CB-A0D3-DC9786F4378E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D448443F-6EA5-4C76-A158-03FEFFE1A52A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D448443F-6EA5-4C76-A158-03FEFFE1A52A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D448443F-6EA5-4C76-A158-03FEFFE1A52A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D448443F-6EA5-4C76-A158-03FEFFE1A52A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5CFA320D-3F3F-4C36-925E-629601B963D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5CFA320D-3F3F-4C36-925E-629601B963D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CFA320D-3F3F-4C36-925E-629601B963D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
